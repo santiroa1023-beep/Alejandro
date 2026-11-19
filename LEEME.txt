@@ -1,0 +1,9 @@
+PORTAFOLIO DE ALEJANDRO VARGAS VEGA
+
+1. Extrae todos los archivos del ZIP.
+2. Sube index.html, styles.css, script.js y README.md directamente a la raíz del repositorio.
+3. Coloca la fotografía llamada ale.png en esa misma carpeta.
+4. No subas la carpeta contenedora completa: index.html debe quedar directamente en la raíz.
+5. Configura GitHub Pages en Settings > Pages, rama main y carpeta /(root).
+
+La fotografía no está incluida en el ZIP; agrégala manualmente con el nombre exacto ale.png.
